@@ -1,0 +1,9 @@
+# Edited copies with tokens or host-specific settings are for one upload only.
+*.local.php
+/local/
+/tmp/
+
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+*.swp

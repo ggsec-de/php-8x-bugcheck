@@ -1,0 +1,6 @@
+# Keep LF in the repository and on checkout. Nothing here needs CRLF.
+* text=auto eol=lf
+
+*.php text eol=lf
+*.md  text eol=lf
+*.txt text eol=lf
